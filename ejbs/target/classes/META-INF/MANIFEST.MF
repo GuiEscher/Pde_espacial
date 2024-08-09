@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: guilh
+Build-Jdk: 22.0.1
+Class-Path: primary-source-0.0.1-SNAPSHOT.jar logging-0.0.1-SNAPSHOT.jar
+  opencsv-5.5.2.jar commons-lang3-3.12.0.jar commons-text-1.9.jar common
+ s-beanutils-1.9.4.jar commons-logging-1.2.jar commons-collections-3.2.2
+ .jar commons-collections4-4.4.jar jts-core-1.18.1.jar
+Created-By: Maven Integration for Eclipse
+
